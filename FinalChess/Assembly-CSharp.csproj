@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\ChessBoard.cs" />
      <Compile Include="Assets\Scripts\GameControl.cs" />
      <Compile Include="Assets\Scripts\Piece.cs" />
+     <Compile Include="Assets\Scripts\Tile.cs" />
      <None Include="Assets\Tiny Chess\Readme Eng.txt" />
      <None Include="Assets\Tiny Chess\Update.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
